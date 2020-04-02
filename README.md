@@ -11,7 +11,7 @@
     - 点击 item 展示详情页
     - 返回列表页等功能。
 
-2. 拉取豆瓣上的数据：[豆瓣 API](https://developers.douban.com/wiki/?title=api_v2)（已下架，建议参考本文下面的文档）
+2. 拉取豆瓣上的数据：[豆瓣 API](https://developers.douban.com/wiki/?title=api_v2)（
 3. 管理代码规范：[standard](https://standardjs.com/)
 
 ## 1. 具体功能介绍
